@@ -1,0 +1,83 @@
+{
+  "originalDocxPath": "src/uploads/resume-1772729026234-707822078.docx",
+  "resume": {
+    "personalInfo": {
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "+1-555-0123",
+      "location": "San Francisco, CA"
+    },
+    "professionalSummary": "Experienced software developer with 5+ years of expertise in full-stack web development",
+    "jobTitle": "Senior Frontend Software Engineer",
+    "skills": [
+      { "name": "JavaScript", "level": "expert" },
+      { "name": "React", "level": "advanced" },
+      { "name": "Node.js", "level": "advanced" },
+      { "name": "TypeScript", "level": "advanced" },
+      { "name": "MongoDB", "level": "advanced" },
+      { "name": "PostgreSQL", "level": "intermediate" },
+      { "name": "Docker", "level": "intermediate" },
+      { "name": "Python", "level": "intermediate" }
+    ],
+    "experience": [
+      {
+        "jobTitle": "Senior Frontend Software Engineer",
+        "company": "TechCo Inc",
+        "startDate": "2021-01",
+        "endDate": "2026-03",
+        "currentlyWorking": true,
+        "description": "Led full-stack development of web applications",
+        "responsibilities": [
+          "Architected and built scalable React applications",
+          "Designed and optimized REST APIs with Node.js",
+          "Managed database design and optimization",
+          "Implemented CI/CD pipelines and DevOps practices"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "State University",
+        "graduationDate": "2019-05"
+      }
+    ]
+  },
+  "jobDescription": {
+    "roleTitle": "Senior Full-Stack Developer",
+    "company": "Tech Corp",
+    "description": "We are seeking a Senior Full-Stack Developer with strong experience in modern web technologies.",
+    "responsibilities": [
+      "Design and implement scalable web applications",
+      "Optimize database queries for high performance",
+      "Implement CI/CD pipelines and DevOps practices",
+      "Lead code reviews and mentor junior developers"
+    ],
+    "requiredSkills": [
+      { "name": "JavaScript" },
+      { "name": "React" },
+      { "name": "Node.js" },
+      { "name": "MongoDB" },
+      { "name": "PostgreSQL" },
+      { "name": "Docker" },
+      { "name": "AWS" }
+    ],
+    "atsKeywords": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "MongoDB",
+      "PostgreSQL",
+      "Docker",
+      "AWS",
+      "TypeScript",
+      "REST API",
+      "CI/CD"
+    ],
+    "qualifications": [
+      "5+ years of software development experience",
+      "Strong knowledge of JavaScript/TypeScript",
+      "Experience with cloud platforms"
+    ]
+  }
+}
